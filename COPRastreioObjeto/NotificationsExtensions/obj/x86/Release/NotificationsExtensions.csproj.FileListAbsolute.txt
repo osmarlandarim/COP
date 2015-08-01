@@ -1,0 +1,16 @@
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\bin\x86\Release\NotificationsExtensions.winmd
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\bin\x86\Release\NotificationsExtensions.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\bin\x86\Release\NotificationsExtensions.pri
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\NotificationsExtensions.winmd
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\NotificationsExtensions.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\NotificationsExtensions.winmdobj
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\NotificationsExtensions.compile.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\priconfig.xml.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\layout.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\resources.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\pri.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\priconfig.xml
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\layout.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\resources.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\pri.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\x86\Release\LanguageQualifiers.txt

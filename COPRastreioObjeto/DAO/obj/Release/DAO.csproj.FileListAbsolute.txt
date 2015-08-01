@@ -1,0 +1,14 @@
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\bin\Release\DAO.dll
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\bin\Release\DAO.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\bin\Release\DAO.pri
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\DAO.dll
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\DAO.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\priconfig.xml.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\layout.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\resources.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\pri.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\priconfig.xml
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\layout.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\resources.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\pri.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\Release\LanguageQualifiers.txt

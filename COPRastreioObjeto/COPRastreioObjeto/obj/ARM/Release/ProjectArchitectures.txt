@@ -1,0 +1,12 @@
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\BackgroundTasks\BackgroundTasks.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\Business.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\Business.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\DAO.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\DAO.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\DAO.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\DAO.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Entities\Entities.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Entities\Entities.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Entities\Entities.csproj;arm
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\NotificationsExtensions.csproj;arm

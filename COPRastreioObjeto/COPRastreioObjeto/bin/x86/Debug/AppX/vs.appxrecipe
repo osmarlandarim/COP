@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OSMAR-NB</Machine>
+    <WindowsUser>Osmar</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>B6E29E210DDAA9DF7B6A8DE62C7AEE672A7633664FE67F548BB8401307C54658</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6293OsmarLandarim.COPRastreiodeObjetos_1.0.0.101_x86__g2d2vmfjy3ra0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6293OsmarLandarim.COPRastreiodeObjetos_g2d2vmfjy3ra0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6293OsmarLandarim.COPRastreiodeObjetos</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=EA06DEF2-CCED-4A88-B3C4-42073CB8A185</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.101</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-19T23:19:18.212</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\COPRastreioObjeto.exe">
+      <PackagePath>COPRastreioObjeto.exe</PackagePath>
+      <Modified>2015-04-19T23:19:13.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\COPRastreioObjeto.pdb">
+      <PackagePath>COPRastreioObjeto.pdb</PackagePath>
+      <Modified>2015-04-19T23:19:13.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\BackgroundTasks\bin\x86\Debug\BackgroundTasks.pdb">
+      <PackagePath>BackgroundTasks.pdb</PackagePath>
+      <Modified>2015-04-19T23:18:59.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\x86\Debug\Business.pdb">
+      <PackagePath>Business.pdb</PackagePath>
+      <Modified>2015-04-19T23:18:58.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\bin\x86\Debug\DAO.pdb">
+      <PackagePath>DAO.pdb</PackagePath>
+      <Modified>2015-04-19T23:18:57.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Entities\bin\x86\Debug\Entities.pdb">
+      <PackagePath>Entities.pdb</PackagePath>
+      <Modified>2015-04-19T23:18:58.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\bin\x86\Debug\NotificationsExtensions.pdb">
+      <PackagePath>NotificationsExtensions.pdb</PackagePath>
+      <Modified>2015-04-19T22:04:49.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\References\commonconfiguration\neutral\Bing.Maps.winmd">
+      <PackagePath>Bing.Maps.winmd</PackagePath>
+      <Modified>2015-04-19T22:05:44.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-06-29T15:51:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-06-29T15:51:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\BackgroundTasks\bin\x86\Debug\BackgroundTasks.winmd">
+      <PackagePath>BackgroundTasks.winmd</PackagePath>
+      <Modified>2015-04-19T23:18:59.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\bin\x86\Debug\NotificationsExtensions.winmd">
+      <PackagePath>NotificationsExtensions.winmd</PackagePath>
+      <Modified>2015-04-19T22:04:49.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\References\commonconfiguration\neutral\Bing.Maps.xml">
+      <PackagePath>Bing.Maps.xml</PackagePath>
+      <Modified>2015-04-19T22:05:44.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.xml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.xml</PackagePath>
+      <Modified>2013-06-29T15:53:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.xml">
+      <PackagePath>MicrosoftAdvertising.xml</PackagePath>
+      <Modified>2013-06-29T15:53:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Callisto\1.3.1\References\CommonConfiguration\neutral\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+      <Modified>2015-04-19T22:05:25.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\x86\Debug\Business.dll">
+      <PackagePath>Business.dll</PackagePath>
+      <Modified>2015-04-19T23:18:58.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\bin\x86\Debug\DAO.dll">
+      <PackagePath>DAO.dll</PackagePath>
+      <Modified>2015-04-19T23:18:57.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Entities\bin\x86\Debug\Entities.dll">
+      <PackagePath>Entities.dll</PackagePath>
+      <Modified>2015-04-19T23:18:58.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xaml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xaml</PackagePath>
+      <Modified>2013-06-29T15:48:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Callisto\1.3.1\Redist\CommonConfiguration\neutral\Themes\Generic.xaml">
+      <PackagePath>Callisto\Themes\Generic.xaml</PackagePath>
+      <Modified>2015-04-19T22:05:25.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xaml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-06-29T15:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Themes\Generic.xaml">
+      <PackagePath>Bing.Maps\Themes\Generic.xaml</PackagePath>
+      <Modified>2015-04-19T22:05:44.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\debug\x86\Bing.Maps.dll">
+      <PackagePath>Bing.Maps.dll</PackagePath>
+      <Modified>2015-04-19T22:05:44.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Blocked_Regions_01.png">
+      <PackagePath>Bing.Maps\Blocked_Regions_01.png</PackagePath>
+      <Modified>2015-04-19T22:05:43.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage-noalpha.png">
+      <PackagePath>Bing.Maps\circleImage-noalpha.png</PackagePath>
+      <Modified>2015-04-19T22:05:43.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage.png">
+      <PackagePath>Bing.Maps\circleImage.png</PackagePath>
+      <Modified>2015-04-19T22:05:43.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\dashedImage.png">
+      <PackagePath>Bing.Maps\dashedImage.png</PackagePath>
+      <Modified>2015-04-19T22:05:43.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-06-29T15:48:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:43.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.ps</PackagePath>
+      <Modified>2015-04-19T22:05:43.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:43.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.ps</PackagePath>
+      <Modified>2015-04-19T22:05:43.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:43.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.ps</PackagePath>
+      <Modified>2015-04-19T22:05:44.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:43.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.vs</PackagePath>
+      <Modified>2015-04-19T22:05:43.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:43.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.vs</PackagePath>
+      <Modified>2015-04-19T22:05:43.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:43.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.vs</PackagePath>
+      <Modified>2015-04-19T22:05:44.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\CMF.ont">
+      <PackagePath>Bing.Maps\CMF.ont</PackagePath>
+      <Modified>2015-04-19T22:05:43.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\LandmarkSchema.ont">
+      <PackagePath>Bing.Maps\LandmarkSchema.ont</PackagePath>
+      <Modified>2015-04-19T22:05:43.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Schema.ont">
+      <PackagePath>Bing.Maps\Schema.ont</PackagePath>
+      <Modified>2015-04-19T22:05:43.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\VenueMapsSchema.ont">
+      <PackagePath>Bing.Maps\VenueMapsSchema.ont</PackagePath>
+      <Modified>2015-04-19T22:05:44.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\EnglishEntityNames.hlx">
+      <PackagePath>Bing.Maps\EnglishEntityNames.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityLookup.hlx">
+      <PackagePath>Bing.Maps\EntityLookup.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityNameLength.hlx">
+      <PackagePath>Bing.Maps\EntityNameLength.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\GermanicEntityNames.hlx">
+      <PackagePath>Bing.Maps\GermanicEntityNames.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\InvariantEntityNames.hlx">
+      <PackagePath>Bing.Maps\InvariantEntityNames.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\LatinEntityNames.hlx">
+      <PackagePath>Bing.Maps\LatinEntityNames.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameCount.hlx">
+      <PackagePath>Bing.Maps\NameCount.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameRoleLcid.hlx">
+      <PackagePath>Bing.Maps\NameRoleLcid.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\ScandinavianEntityNames.hlx">
+      <PackagePath>Bing.Maps\ScandinavianEntityNames.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:43.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields202.hlx">
+      <PackagePath>Bing.Maps\Shields202.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:44.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields244.hlx">
+      <PackagePath>Bing.Maps\Shields244.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:44.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields39.hlx">
+      <PackagePath>Bing.Maps\Shields39.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:44.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\SlavicEntityNames.hlx">
+      <PackagePath>Bing.Maps\SlavicEntityNames.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:44.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets202.hlx">
+      <PackagePath>Bing.Maps\Streets202.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:44.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets244.hlx">
+      <PackagePath>Bing.Maps\Streets244.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:44.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets39.hlx">
+      <PackagePath>Bing.Maps\Streets39.hlx</PackagePath>
+      <Modified>2015-04-19T22:05:44.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\h0.tile">
+      <PackagePath>Bing.Maps\h0.tile</PackagePath>
+      <Modified>2015-04-19T22:05:43.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\h1.tile">
+      <PackagePath>Bing.Maps\h1.tile</PackagePath>
+      <Modified>2015-04-19T22:05:43.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\h2.tile">
+      <PackagePath>Bing.Maps\h2.tile</PackagePath>
+      <Modified>2015-04-19T22:05:43.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\h3.tile">
+      <PackagePath>Bing.Maps\h3.tile</PackagePath>
+      <Modified>2015-04-19T22:05:43.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\r0.tile">
+      <PackagePath>Bing.Maps\r0.tile</PackagePath>
+      <Modified>2015-04-19T22:05:43.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\r1.tile">
+      <PackagePath>Bing.Maps\r1.tile</PackagePath>
+      <Modified>2015-04-19T22:05:43.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\r2.tile">
+      <PackagePath>Bing.Maps\r2.tile</PackagePath>
+      <Modified>2015-04-19T22:05:43.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\r3.tile">
+      <PackagePath>Bing.Maps\r3.tile</PackagePath>
+      <Modified>2015-04-19T22:05:43.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\map.config">
+      <PackagePath>Bing.Maps\map.config</PackagePath>
+      <Modified>2015-04-19T22:05:43.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-06-29T15:49:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Osmar\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\CommonConfiguration\neutral\Bing.Maps\UnifiedStyle.MapStyle">
+      <PackagePath>Bing.Maps\UnifiedStyle.MapStyle</PackagePath>
+      <Modified>2015-04-19T22:05:44.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-08T22:22:39.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\CarimboRecebido.png">
+      <PackagePath>Assets\CarimboRecebido.png</PackagePath>
+      <Modified>2014-04-27T22:51:02.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Conferido.png">
+      <PackagePath>Assets\Conferido.png</PackagePath>
+      <Modified>2013-07-12T21:42:12.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\cop.png">
+      <PackagePath>Assets\cop.png</PackagePath>
+      <Modified>2013-07-08T22:22:39.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\COPPro.png">
+      <PackagePath>Assets\COPPro.png</PackagePath>
+      <Modified>2013-09-28T01:38:23.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\cop_icon.png">
+      <PackagePath>Assets\cop_icon.png</PackagePath>
+      <Modified>2013-07-08T22:22:39.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\correios.png">
+      <PackagePath>Assets\correios.png</PackagePath>
+      <Modified>2013-07-08T22:22:39.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\DestinatarioAusente.png">
+      <PackagePath>Assets\DestinatarioAusente.png</PackagePath>
+      <Modified>2013-07-12T23:22:57.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\endereco.png">
+      <PackagePath>Assets\endereco.png</PackagePath>
+      <Modified>2013-07-08T22:22:39.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Entregue.png">
+      <PackagePath>Assets\Entregue.png</PackagePath>
+      <Modified>2013-07-12T23:30:33.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\HistoricoAguardando.png">
+      <PackagePath>Assets\HistoricoAguardando.png</PackagePath>
+      <Modified>2013-07-13T23:01:17.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\HistoricoCorreios.png">
+      <PackagePath>Assets\HistoricoCorreios.png</PackagePath>
+      <Modified>2013-07-13T22:41:23.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\HistoricoInicial.png">
+      <PackagePath>Assets\HistoricoInicial.png</PackagePath>
+      <Modified>2013-07-13T22:42:51.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\InicialEncomenda.png">
+      <PackagePath>Assets\InicialEncomenda.png</PackagePath>
+      <Modified>2013-07-13T22:54:33.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\CartaRegistrada.png">
+      <PackagePath>Assets\Maps\CartaRegistrada.png</PackagePath>
+      <Modified>2013-11-04T01:46:27.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\CPF.png">
+      <PackagePath>Assets\Maps\CPF.png</PackagePath>
+      <Modified>2013-11-04T20:49:27.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\Default.png">
+      <PackagePath>Assets\Maps\Default.png</PackagePath>
+      <Modified>2013-11-04T21:22:16.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\Detran.png">
+      <PackagePath>Assets\Maps\Detran.png</PackagePath>
+      <Modified>2013-11-04T21:02:10.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\EMS.png">
+      <PackagePath>Assets\Maps\EMS.png</PackagePath>
+      <Modified>2013-11-04T21:14:19.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\Internacional%40%40%40.png">
+      <PackagePath>Assets\Maps\Internacional%40%40%40.png</PackagePath>
+      <Modified>2013-11-04T21:59:29.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\Internacional.png">
+      <PackagePath>Assets\Maps\Internacional.png</PackagePath>
+      <Modified>2013-11-04T22:09:15.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\PAC.png">
+      <PackagePath>Assets\Maps\PAC.png</PackagePath>
+      <Modified>2013-11-04T20:43:51.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\Passaporte.png">
+      <PackagePath>Assets\Maps\Passaporte.png</PackagePath>
+      <Modified>2013-11-04T20:51:44.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\Sedex.png">
+      <PackagePath>Assets\Maps\Sedex.png</PackagePath>
+      <Modified>2013-11-03T23:28:23.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\Maps\Telegrama.png">
+      <PackagePath>Assets\Maps\Telegrama.png</PackagePath>
+      <Modified>2013-11-04T21:07:49.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\ProblemaEncomenda.png">
+      <PackagePath>Assets\ProblemaEncomenda.png</PackagePath>
+      <Modified>2013-07-12T23:44:46.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\SaiuEntrega.png">
+      <PackagePath>Assets\SaiuEntrega.png</PackagePath>
+      <Modified>2013-07-12T22:58:23.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-08T22:22:39.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\splash-COP.png">
+      <PackagePath>Assets\splash-COP.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-08T22:22:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\splashscreen_t.png">
+      <PackagePath>Assets\splashscreen_t.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-08T22:22:39.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-08T22:23:19.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-08T22:22:39.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\Assets\WideLogoCorreio.png">
+      <PackagePath>Assets\WideLogoCorreio.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-08T22:22:39.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-07-08T22:22:38.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\AboutUserControl.xaml">
+      <PackagePath>AboutUserControl.xaml</PackagePath>
+      <Modified>2013-07-08T22:22:39.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-07-08T22:22:38.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\ExtendedSplash.xaml">
+      <PackagePath>ExtendedSplash.xaml</PackagePath>
+      <Modified>2013-07-08T22:22:38.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\GroupDetailPageEndereco.xaml">
+      <PackagePath>GroupDetailPageEndereco.xaml</PackagePath>
+      <Modified>2013-07-08T22:22:38.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2013-08-07T10:20:59.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2013-10-29T21:48:54.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\icon.xaml">
+      <PackagePath>icon.xaml</PackagePath>
+      <Modified>2013-07-08T22:22:38.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2013-12-08T23:43:04.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\MyUserControl1.xaml">
+      <PackagePath>MyUserControl1.xaml</PackagePath>
+      <Modified>2013-08-08T10:14:42.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\PoliticaPrivacidade.xaml">
+      <PackagePath>PoliticaPrivacidade.xaml</PackagePath>
+      <Modified>2013-07-08T22:22:38.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\PreferencesUserControl.xaml">
+      <PackagePath>PreferencesUserControl.xaml</PackagePath>
+      <Modified>2013-07-08T22:22:39.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\COPRastreioObjeto\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-19T23:19:14.711</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

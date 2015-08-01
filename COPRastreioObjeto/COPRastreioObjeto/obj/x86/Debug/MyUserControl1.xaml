@@ -1,0 +1,18 @@
+﻿<UserControl
+    x:Class="COPRastreioObjeto.MyUserControl1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:COPRastreioObjeto"
+    xmlns:common="using:COPRastreioObjeto.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:m="using:Bing.Maps">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <m:Map x:Name="map" Credentials="Av8yYsvNVT0uFWCzW0hvonmDLz6iwecu-hYscccurPBdQdR7uzR1TpI4e-ER-zJo" Width="560" Height="530">
+        </m:Map>
+    </Grid>
+
+</UserControl>
+

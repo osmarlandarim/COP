@@ -1,0 +1,10 @@
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\bin\x86\Release\DAO.dll
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\bin\x86\Release\DAO.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\bin\x86\Release\DAO.pri
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\x86\Release\DAO.dll
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\x86\Release\DAO.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\x86\Release\priconfig.xml
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\x86\Release\layout.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\x86\Release\resources.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\x86\Release\pri.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\DAO\obj\x86\Release\LanguageQualifiers.txt

@@ -1,0 +1,27 @@
+﻿<UserControl
+    x:Class="COPRastreioObjeto.AboutUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:COPRastreioObjeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="COP Rastreio" FontFamily="Segoe UI" FontWeight="Bold" FontSize="26.667" Foreground="Black" />
+            <TextBlock Text="de Objetos" FontFamily="Segoe UI" FontWeight="Bold" FontSize="26.667" Foreground="Black" />
+            <!--<TextBlock Text="Trial Version" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="18" Foreground="#FFFFF8F8" />-->
+            <TextBlock Text="Desenvolvedores:" FontFamily="Segoe UI" FontWeight="Bold" FontSize="18" Foreground="Black" />
+            <TextBlock Text="      Conrhado Rauen" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="18" Foreground="Black" />
+            <TextBlock Text="      Osmar Miguel Landarim" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="18" Foreground="Black" />
+            <TextBlock Text="      Paulo Rafael Mesgaliski" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="18" Foreground="Black" />
+            <TextBlock Text="Contato:" FontFamily="Segoe UI" FontWeight="Bold" FontSize="18" Foreground="Black" />
+            <TextBlock Text="      copdev@outlook.com" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="18" Foreground="Black" />
+            <TextBlock x:Name="txtLinha" Text="" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="12" Foreground="Black" />
+            <TextBlock x:Name="txtVersion" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="12" Foreground="Black" />
+        </StackPanel>
+    </Grid>
+</UserControl>

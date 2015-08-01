@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="COPRastreioObjeto.ExtendedSplash"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:COPRastreioObjeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#00b2f0">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="180"/>
+        </Grid.RowDefinitions>
+        
+        <Canvas Grid.Row="0">
+            <Image x:Name="extendedSplashImage" Source="Assets/Splashscreen_t.png" />
+        </Canvas>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center">
+
+            <ProgressRing x:Name="progressCep" Grid.Row="3" Grid.Column="1" IsActive="True" Width="40" Height="40"
+                           Foreground="White"/>
+
+            <TextBlock x:Name="txtVersion" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="12" Foreground="White" />
+        </StackPanel>
+    </Grid>
+</Page>

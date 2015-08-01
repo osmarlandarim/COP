@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="6293OsmarLandarim.COPRastreiodeObjetos" Publisher="CN=EA06DEF2-CCED-4A88-B3C4-42073CB8A185" Version="1.0.0.101" />
+  <Properties>
+    <DisplayName>COP Rastreio de Objeto dos Correios</DisplayName>
+    <PublisherDisplayName>Osmar Landarim</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="COPRastreioObjeto.App">
+      <VisualElements DisplayName="COP Rastreio de Objetos" Logo="Assets\splash-COP.png" SmallLogo="Assets\SmallLogo.png" Description="Rastreio de Objetos dos Correios." ForegroundText="light" BackgroundColor="#00b2f0">
+        <LockScreen Notification="badge" BadgeLogo="Assets\BadgeLogo.png" />
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\WideLogoCorreio.png" />
+        <SplashScreen Image="Assets\Splashscreen_t.png" BackgroundColor="#00b2f0" />
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.backgroundTasks" EntryPoint="BackgroundTasks.CorreiosBackgroundTask">
+          <BackgroundTasks>
+            <Task Type="timer" />
+          </BackgroundTasks>
+        </Extension>
+        <Extension Category="windows.shareTarget">
+          <ShareTarget>
+            <DataFormat>text</DataFormat>
+            <DataFormat>uri</DataFormat>
+          </ShareTarget>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

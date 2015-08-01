@@ -1,0 +1,17 @@
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\Business.dll
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\Business.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\Business.pri
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\DAO.dll
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\Entities.dll
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\DAO.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\DAO.pri
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\Entities.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\bin\ARM\Release\Entities.pri
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\obj\ARM\Release\Business.csprojResolveAssemblyReference.cache
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\obj\ARM\Release\Business.dll
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\obj\ARM\Release\Business.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\obj\ARM\Release\priconfig.xml
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\obj\ARM\Release\layout.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\obj\ARM\Release\resources.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\obj\ARM\Release\pri.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\Business\obj\ARM\Release\LanguageQualifiers.txt

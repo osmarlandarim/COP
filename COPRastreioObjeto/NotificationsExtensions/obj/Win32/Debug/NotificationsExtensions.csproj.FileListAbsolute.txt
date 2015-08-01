@@ -1,0 +1,16 @@
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\bin\x86\Debug\NotificationsExtensions.winmd
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\bin\x86\Debug\NotificationsExtensions.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\bin\x86\Debug\NotificationsExtensions.pri
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\NotificationsExtensions.winmd
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\NotificationsExtensions.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\NotificationsExtensions.winmdobj
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\NotificationsExtensions.compile.pdb
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\priconfig.xml.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\layout.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\resources.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\pri.resfiles.intermediate
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\priconfig.xml
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\layout.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\resources.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\pri.resfiles
+G:\CopRastreioObjetoFonte\COPRastreioObjeto\COPRastreioObjeto\NotificationsExtensions\obj\Win32\Debug\LanguageQualifiers.txt
