@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<Publicidade xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Imagem>http://coprastreio.comule.com/COPPublicidade/teste.png</Imagem>
+  <Link>http://www.youtube.com/watch?v=CgKv1pYSSnM</Link>
+	<Descricao>Conheça nossos videos.</Descricao>
+</Publicidade>
